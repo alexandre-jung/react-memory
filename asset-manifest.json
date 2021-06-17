@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-memory/static/css/main.aacd2ddf.chunk.css",
+    "main.js": "/react-memory/static/js/main.f53d5b3e.chunk.js",
+    "main.js.map": "/react-memory/static/js/main.f53d5b3e.chunk.js.map",
+    "runtime-main.js": "/react-memory/static/js/runtime-main.5368dba7.js",
+    "runtime-main.js.map": "/react-memory/static/js/runtime-main.5368dba7.js.map",
+    "static/js/2.6959359d.chunk.js": "/react-memory/static/js/2.6959359d.chunk.js",
+    "static/js/2.6959359d.chunk.js.map": "/react-memory/static/js/2.6959359d.chunk.js.map",
+    "static/js/3.5c5e795d.chunk.js": "/react-memory/static/js/3.5c5e795d.chunk.js",
+    "static/js/3.5c5e795d.chunk.js.map": "/react-memory/static/js/3.5c5e795d.chunk.js.map",
+    "index.html": "/react-memory/index.html",
+    "static/css/main.aacd2ddf.chunk.css.map": "/react-memory/static/css/main.aacd2ddf.chunk.css.map",
+    "static/js/2.6959359d.chunk.js.LICENSE.txt": "/react-memory/static/js/2.6959359d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5368dba7.js",
+    "static/js/2.6959359d.chunk.js",
+    "static/css/main.aacd2ddf.chunk.css",
+    "static/js/main.f53d5b3e.chunk.js"
+  ]
+}
